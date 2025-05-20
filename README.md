@@ -8,7 +8,7 @@ Atualmente estou aprendendo **HTML, CSS e JavaScript** e desenvolvendo projetos 
 - Aprender os fundamentos da programação
 - Contribuir com projetos open source no futuro
 - Criar aplicações úteis e criativas
-- Me tornar um(a) desenvolvedor(a) full stack
+- Me tornar um desenvolvedor full stack
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -17,7 +17,7 @@ Atualmente estou aprendendo **HTML, CSS e JavaScript** e desenvolvendo projetos 
 ## 🌱 Em aprendizado
 
 Atualmente estudando com cursos online e construindo pequenos projetos para praticar o que aprendo.  
-Buscando sempre melhorar e evoluir como desenvolvedor(a).
+Buscando sempre melhorar e evoluir como desenvolvedor.
 
 ## 🛠️ Tecnologias que estou aprendendo
 
