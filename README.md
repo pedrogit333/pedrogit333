@@ -6,7 +6,6 @@ Atualmente estou aprendendo **HTML, CSS e JavaScript** e desenvolvendo projetos 
 ## 🚀 Objetivos
 
 - Aprender os fundamentos da programação
-- Contribuir com projetos open source no futuro
 - Criar aplicações úteis e criativas
 - Me tornar um desenvolvedor full stack
 
