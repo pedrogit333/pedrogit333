@@ -19,13 +19,11 @@ Atualmente estudando com cursos online e construindo pequenos projetos para prat
 Buscando sempre melhorar e evoluir como desenvolvedor.
 
 ## 🛠️ Tecnologias que estou aprendendo
-![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrogit333&hide=contribs,prs)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogit333&exclude_repo=github-readme-stats,anuraghazra.github.io)
-
-
-
-
+-HTML5 
+-CSS
+-JAVA SCRIPT
+-Rumo ao FULL STACK
 
 ## Contato
 
