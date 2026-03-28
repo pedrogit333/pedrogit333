@@ -20,10 +20,13 @@ Buscando sempre melhorar e evoluir como desenvolvedor.
 
 ## 🛠️ Tecnologias que estou aprendendo
 
--HTML5 
--CSS
--JAVA SCRIPT
--Rumo ao FULL STACK
+- HTML5
+  
+- CSS
+  
+- JAVA SCRIPT
+  
+- Rumo ao FULL STACK
 
 ## Contato
 
